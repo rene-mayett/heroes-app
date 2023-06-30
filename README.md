@@ -7,5 +7,3 @@
 3. Script para levantar el backend ```npm run backend```
 4. Ejecutar la app ```npm start```
 5. Revisar angular.json para los environments
-
-
