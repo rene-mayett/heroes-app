@@ -32,20 +32,28 @@
       "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
     },
     {
-      "id": "dc-green",
-      "superhero": "Green Lantern",
-      "publisher": "DC Comics",
-      "alter_ego": "Alan Scott",
-      "first_appearance": "All-American Comics #16",
-      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
-    },
-    {
       "id": "dc-arrow",
       "superhero": "Green Arrow",
       "publisher": "DC Comics",
       "alter_ego": "Oliver Queen",
       "first_appearance": "More Fun Comics #73",
       "characters": "Oliver Queen"
+    },
+    {
+      "id": "marvel-daredevil",
+      "superhero": "Daredevil",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Matthew Michael Murdock",
+      "first_appearance": "Daredevil #1",
+      "characters": "Matthew Michael Murdock"
+    },
+    {
+      "id": "dc-green",
+      "superhero": "Green Lantern",
+      "publisher": "DC Comics",
+      "alter_ego": "Alan Scott",
+      "first_appearance": "All-American Comics #16",
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
     },
     {
       "id": "dc-wonder",
@@ -96,6 +104,14 @@
       "characters": "Peter Parker"
     },
     {
+      "id": "",
+      "superhero": "Spiter Man",
+      "publisher": "Acapulco Comics",
+      "alter_ego": "Wil Alcaraz",
+      "first_appearance": "Amazing Fantasy #15",
+      "characters": "Peter Parker"
+    },
+    {
       "id": "marvel-captain",
       "superhero": "Captain America",
       "publisher": "Marvel Comics",
@@ -134,14 +150,6 @@
       "alter_ego": "James Howlett",
       "first_appearance": "The Incredible Hulk #180",
       "characters": "James Howlett"
-    },
-    {
-      "id": "marvel-daredevil",
-      "superhero": "Daredevil",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Matthew Michael Murdock",
-      "first_appearance": "Daredevil #1",
-      "characters": "Matthew Michael Murdock"
     },
     {
       "id": "marvel-hawkeye",
